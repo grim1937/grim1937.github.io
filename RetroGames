@@ -1,3 +1,4 @@
+
 <!doctype html>
 
 <html lang="en">
@@ -20,38 +21,23 @@
 </head>
 
 <body>
- 	<style>
-		body{
-			background-color:#3399ff
-		    }
-	</style>
+ 	
 	<div class="container-fluid">
         	<div class="row">
             		<div class="col-sm-5">
 				<h3>U.S. Retro Games<h3> <br />
-	<table>
-  <thead>
-    <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>NES<img src="https://retrocious.files.wordpress.com/2013/07/nes_box.jpg" border="10" height="200" width="400</td>
-      <td>Super Mario Bros. 3<img src="http://static.arcadespot.com/wp-content/uploads/2015/11/super-mario-brothers-3.png" border="10" height="200" width="400</td>
-      <td>Legend of Zelda<img src=" https://gamefaqs.akamaized.net/box/0/1/9/22019_front.jpg" border="10" height="200" width="400</td>
-    </tr>
-    <tr>
-      <td>SNES<img src="http://www.8-bitcentral.com/images/nintendo/snes/boxFront.jpg" border="10" height="200" width="400</td>
-      <td>Earthbound<img src=" https://www.dkoldies.com/product_images/uploaded_images/earthbound-box.png" border="10" height="200" width="400</td>
-      <td>Super Mario World<img src=" https://cdn2.bigcommerce.com/n-pktq5q/ymgqt/products/18784/images/35453/marioworldbox__99296.1485806634.500.750.jpg?c=2" border="10" height="200" width="400</td>
-    </tr>
-  </tbody>
-</table>
-
+	<style>
+		body{
+			background-color:#3399ff
+		    }
+	</style>
+	<table> 
+		<tr>
+			<th>U.S. Retro Games</th>
+			<td>Row 1</td>
+			
+		</tr>
+	</table>
 <p>Sample text</p>
 </body>
 </html>
-
