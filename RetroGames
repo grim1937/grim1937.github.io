@@ -38,21 +38,25 @@
     </tr>
   </thead>
   <tbody>
+  
     <tr>
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
       NES<img src="https://retrocious.files.wordpress.com/2013/07/nes_box.jpg"></td>
-      <td>Super Mario Bros. 3<img src="http://static.arcadespot.com/wp-content/uploads/2015/11/super-mario-brothers-3.png"></td>
-      <td>Legend of Zelda<img src=" https://gamefaqs.akamaized.net/box/0/1/9/22019_front.jpg"</td>
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Super Mario Bros. 3<img src="http://static.arcadespot.com/wp-content/uploads/2015/11/super-mario-brothers-3.png"></td>
+      <tdstyle="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Legend of Zelda<img src=" https://gamefaqs.akamaized.net/box/0/1/9/22019_front.jpg"</td>
     </tr>
-    <tr>
-    <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-    <img src="http://www.100marks.in/wp-content/uploads/2012/07/Sachin-Tendulkar-Pictures-Latest-2.jpg"  style="max-height:100%; max-width:100%"/>   
-
-    </td>   
-      <td>SNES<img src="http://www.8-bitcentral.com/images/nintendo/snes/boxFront.jpg"></td>
-      <td>Earthbound<img src=" https://www.dkoldies.com/product_images/uploaded_images/earthbound-box.png"></td>
-      <td>Super Mario World<img src=" https://cdn2.bigcommerce.com/n-pktq5q/ymgqt/products/18784/images/35453/marioworldbox__99296.1485806634.500.750.jpg?c=2"></td>
+    
+    <tr>    
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      SNES<img src="http://www.8-bitcentral.com/images/nintendo/snes/boxFront.jpg"></td>
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Earthbound<img src=" https://www.dkoldies.com/product_images/uploaded_images/earthbound-box.png"></td>
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Super Mario World<img src=" https://cdn2.bigcommerce.com/n-pktq5q/ymgqt/products/18784/images/35453/marioworldbox__99296.1485806634.500.750.jpg?c=2"></td>
     </tr>
+    
   </tbody>
 </table>
 
