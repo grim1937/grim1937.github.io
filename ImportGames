@@ -31,8 +31,12 @@
 		body{
 			background-color:#3399ff
 		     }
-
 	</style>
+	
+	<div class="container-fluid">
+        	<div class="row">
+            		<div class="col-sm-5">
+				<h3>Japanese Import Video Games<h3> <br />
 	
 <p>Sample text</p>
 </body>
