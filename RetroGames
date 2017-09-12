@@ -25,17 +25,33 @@
 			background-color:#3399ff
 		    }
 	</style>
-	<table> 
-		<tr>
-			<th>U.S. Retro Games</th>
-			<td>Row 1</td>
-			
-		</tr>
-	</table>
 	<div class="container-fluid">
         	<div class="row">
             		<div class="col-sm-5">
 				<h3>U.S. Retro Games<h3> <br />
+	<table>
+  <thead>
+    <tr>
+      <th>Header</th>
+      <th>Header</th>
+      <th>Header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NES<img src="https://retrocious.files.wordpress.com/2013/07/nes_box.jpg"></td>
+      <td>Super Mario Bros. 3<img src="http://static.arcadespot.com/wp-content/uploads/2015/11/super-mario-brothers-3.png"></td>
+      <td>Legend of Zelda</td>
+    </tr>
+    <tr>
+      <td>SNES</td>
+      <td>Earthbound</td>
+      <td>Super Mario World</td>
+    </tr>
+  </tbody>
+</table>
+
 <p>Sample text</p>
 </body>
 </html>
+
