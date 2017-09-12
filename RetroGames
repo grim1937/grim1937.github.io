@@ -1,5 +1,3 @@
-
-
 <!doctype html>
 
 <html lang="en">
@@ -36,29 +34,29 @@
   
     <tr>
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-      NES<img src="https://retrocious.files.wordpress.com/2013/07/nes_box.jpg"style="max-height:100%; max-width:100%"/>
+      NES (Console) $79.99<img src="https://retrocious.files.wordpress.com/2013/07/nes_box.jpg"style="max-height:100%; max-width:100%"/>
       </td>
       
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-      Super Mario Bros. 3<img src="http://static.arcadespot.com/wp-content/uploads/2015/11/super-mario-brothers-3.png"style="max-height:100%; max-width:100%"/>
+      Super Mario Bros. 3 (NES) $14.99<img src="http://static.arcadespot.com/wp-content/uploads/2015/11/super-mario-brothers-3.png"style="max-height:100%; max-width:100%"/>
       </td>
       
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-      Legend of Zelda <img src=" https://gamefaqs.akamaized.net/box/0/1/9/22019_front.jpg"style="max-height:100%; max-width:100%"/>
+      Legend of Zelda (NES) $24.99 <img src=" https://gamefaqs.akamaized.net/box/0/1/9/22019_front.jpg"style="max-height:100%; max-width:100%"/>
       </td>
     </tr>
     
     <tr>    
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-      SNES<img src="http://www.8-bitcentral.com/images/nintendo/snes/boxFront.jpg"style="max-height:100%; max-width:100%"/>
+      SNES (Console) $89.99 <img src="http://www.8-bitcentral.com/images/nintendo/snes/boxFront.jpg"style="max-height:100%; max-width:100%"/>
       </td>
       
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-      Earthbound<img src=" https://www.dkoldies.com/product_images/uploaded_images/earthbound-box.png"style="max-height:100%; max-width:100%"/>
+      Earthbound (SNES) $199.99 <img src=" https://www.dkoldies.com/product_images/uploaded_images/earthbound-box.png"style="max-height:100%; max-width:100%"/>
       </td>
       
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-      Super Mario World<img src=" https://cdn2.bigcommerce.com/n-pktq5q/ymgqt/products/18784/images/35453/marioworldbox__99296.1485806634.500.750.jpg?c=2"style="max-height:100%; max-width:100%"/>
+      Super Mario World (SNES) $24.99 <img src=" https://cdn2.bigcommerce.com/n-pktq5q/ymgqt/products/18784/images/35453/marioworldbox__99296.1485806634.500.750.jpg?c=2"style="max-height:100%; max-width:100%"/>
       </td>
     </tr>
     
