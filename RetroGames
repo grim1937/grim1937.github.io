@@ -29,14 +29,7 @@
         	<div class="row">
             		<div class="col-sm-5">
 				<h3>U.S. Retro Games<h3> <br />
-	<table>
-  <thead>
-    <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
-    </tr>
-  </thead>
+<table>
   <tbody>
   
     <tr>
@@ -44,7 +37,7 @@
       NES<img src="https://retrocious.files.wordpress.com/2013/07/nes_box.jpg"></td>
       <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
       Super Mario Bros. 3<img src="http://static.arcadespot.com/wp-content/uploads/2015/11/super-mario-brothers-3.png"></td>
-      <tdstyle="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
       Legend of Zelda<img src=" https://gamefaqs.akamaized.net/box/0/1/9/22019_front.jpg"</td>
     </tr>
     
