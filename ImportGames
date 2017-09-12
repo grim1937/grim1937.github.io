@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-
+  <h1>  8-Bit Wonder World </h1>
   <meta charset="utf-8">
   <meta name ="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -12,33 +12,58 @@
   <a href = "https://grim1937.github.io/"> 
 	<img src="https://i.pinimg.com/originals/5b/3f/e7/5b3fe74e05dae939b66df5b1508a4cb3.jpg" border="10" alt="Welcome to Wonder World Logo" height="200" width="400">
   </a>
-
-  <title>8-Bit Imports</title>
-
-  <meta name="description" content="HTML5 Template">
-
   
-
-
-
+  <title>8-Bit Imports</title>
+ 
+  <meta name="description" content="HTML5 Template">
+ 
 </head>
 
-
-
 <body>
-	<style>
-
+ 	<style>
 		body{
 			background-color:#3399ff
-		     }
+		    }
 	</style>
-	
 	<div class="container-fluid">
         	<div class="row">
             		<div class="col-sm-5">
-				<h3>Japanese Import Video Games<h3> <br />
-	
+				<h3>Japanese Import Games<h3> <br />
+<table>
+  <tbody>
+  
+    <tr>
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Famicom (Console) $59.99 <img src="https://img08.deviantart.net/0813/i/2013/249/8/1/famicom__box__by_konataxiii-d6l86vv.jpg"style="max-height:100%; max-width:100%"/>
+      </td>
+      
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Final Fantasy III (Famicom) $9.99<img src="https://vignette4.wikia.nocookie.net/finalfantasy/images/e/e2/FF3_Logo.png/revision/latest?cb=20160920111946"style="max-height:100%; max-width:100%"/>
+      </td>
+      
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Rockman 2 (Famicom) $24.99 <img src=" https://i.pinimg.com/originals/35/5c/12/355c12ade3c79a7eb6dfb6fc548328d3.jpg"style="max-height:100%; max-width:100%"/>
+      </td>
+    </tr>
+    
+    <tr>    
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Super Famicom (Console) $69.99 <img src="https://gamefaqs.akamaized.net/box/9/7/1/419971_front.jpg"style="max-height:100%; max-width:100%"/>
+      </td>
+      
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Dragon Ball Z Donsetsu (Super Famicom) $14.99 <img src=" http://dragonballnewgen.weebly.com/uploads/3/8/2/0/38202895/5301119.png?250" style="max-height:100%; max-width:100%"/>
+      </td>
+      
+      <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
+      Super Mario Kart (Super Famicom) $14.99 <img src="https://ih1.redbubble.net/image.147021391.0398/flat,800x800,075,t.u2.jpg" style="max-height:100%; max-width:100%"/>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+
 <p>Sample text</p>
 </body>
-
 </html>
+
