@@ -11,8 +11,63 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="javaDate.js"></script>
+    
+    <head>
+        <style>
+            .dropbtn {
+                background-color: #4CAF50;
+                color: white;
+                padding: 16px;
+                font-size: 16px;
+                border: none;
+                cursor: pointer;
+            }
 
-	
+            .dropdown {
+                position: relative;
+                display: inline-block;
+            }
+
+            .dropdown-content {
+                display: none;
+                position: absolute;
+                background-color: #f9f9f9;
+                min-width: 160px;
+                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                z-index: 1;
+            }
+
+                .dropdown-content a {
+                    color: black;
+                    padding: 12px 16px;
+                    text-decoration: none;
+                    display: block;
+                }
+
+                    .dropdown-content a:hover {
+                        background-color: #f1f1f1
+                    }
+
+            .dropdown:hover .dropdown-content {
+                display: block;
+            }
+
+            .dropdown:hover .dropbtn {
+                background-color: #3e8e41;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="dropdown">
+            <button class="dropbtn">MENU</button>
+            <div class="dropdown-content">
+                <a href="https://grim1937.github.io/">Home</a>
+                <a href="https://grim1937.github.io/ImportGames.htm">Import Games</a>
+                <a href="https://grim1937.github.io/RetroGames.htm">Retro Games</a>
+                <a href="https://grim1937.github.io/ContactUs.htm">Contact Us</a>
+            </div>
+        </div>
+    </body>
   <title>8-Bit Wonder World</title>
 	<a href = "https://grim1937.github.io/"> 
 		<img src="https://i.pinimg.com/originals/5b/3f/e7/5b3fe74e05dae939b66df5b1508a4cb3.jpg" border="10" alt="Welcome to Wonder World Logo" height="200" width="400"><br>
@@ -21,28 +76,16 @@
 	<style>
 		body{
 			background-color:#3399ff
-			
 
-	
 		}
 	</style>
 
 </head>
 
+
 <body>
-	
-	
-	
-	<a href = "https://grim1937.github.io/ImportGames.htm">
-	<img src="https://files.tofugu.com/articles/japan/2013-12-02-import-japanese-video-games/header-5120x.jpg" 
-	     border = "50" alt="Import Video Game Logo" height="150" width="225">
-	</a>
-	
-	<a href = "https://grim1937.github.io/RetroGames.htm">
-        <img src="http://www.myretrogames.com/wp-content/uploads/2017/01/retrogames_hires_logo.png" 
-	     border = "50" alt="American Video Game Logo" height="100" width="650">
-        </a>
-	
+ 
+    </div> 
 	<p><font size="4">
 	Hi! We're your friendly neighborhood 8-Bit Wonderland game store!<br/>
 	We buy and sell retro and imported video games, systems and accessories. <br/>
@@ -60,8 +103,12 @@
                  <a href="https://grim1937.github.io/ContactUs.htm"style="color: #cc0000">Contact Us</a>		 
             </div>
         </div>
-    
-	<p id="todaysDate">Today's Date is: </p>
+    <p id="demo"></p>
+
+    <script>
+        document.getElementById("demo").innerHTML = Date();
+    </script>
 </body>
-</center>
+
 </html>
+
